@@ -98,7 +98,7 @@ When building or maintaining technology systems, consider:
 - What emotions might they experience when using it?
 - What obstacles might they face?
 
-![Emotional Technology Experience Map](resources/emotional-tech-map.png)
+![Emotional Technology Experience Map](emotional-tech-map.png)
 
 The most successful IT professionals don't just understand packets and protocols—they understand people. In Site-Savvy, when you collaborate with other players or consider the effects of your moves on others, you're practicing Layer 8 thinking!
 
@@ -111,7 +111,7 @@ The OSI (Open Systems Interconnection) model is like a map that shows how comput
 
 ## The Seven Layers
 
-![OSI Model Layers](resources/osi-model-diagram.png)
+![OSI Model Layers](osi-model-diagram.png)
 
 ### Layer 1: Physical Layer 
 **Color in Site-Savvy: Brown Square ■**
