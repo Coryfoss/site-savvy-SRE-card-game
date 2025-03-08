@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # The OSI Model: How Computers Talk to Each Other
 
 ## What is the OSI Model?
