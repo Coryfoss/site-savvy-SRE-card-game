@@ -6,7 +6,7 @@ The OSI (Open Systems Interconnection) model is like a map that shows how comput
 
 ## The Seven Layers
 
-![OSI Model Layers](resources/osi-model-diagram.png)
+![OSI Model Layers](osi-model-diagram.png)
 
 ### Layer 1: Physical Layer 
 **Color in Site-Savvy: Brown Square ■**
@@ -206,6 +206,3 @@ When building or maintaining technology systems, consider:
 ![Emotional Technology Experience Map](resources/emotional-tech-map.png)
 
 The most successful IT professionals don't just understand packets and protocols—they understand people. In Site-Savvy, when you collaborate with other players or consider the effects of your moves on others, you're practicing Layer 8 thinking!
-
->>>>>>> 26d0f3a065a3f60e19c1ae893a28dbf4b51e540d
-Remember: Technology should bring people together, not create barriers between them.
