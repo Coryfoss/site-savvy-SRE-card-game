@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # IT Glossary for Site-Savvy Card Game
 
 This glossary explains key IT terms and concepts that appear in the Site-Savvy card game. Use it as a reference when playing the game or learning about technology!
@@ -312,5 +311,4 @@ This glossary explains key IT terms and concepts that appear in the Site-Savvy c
 
 ---
 
->>>>>>> 26d0f3a065a3f60e19c1ae893a28dbf4b51e540d
 This glossary is designed to support the Site-Savvy card game, helping players understand the terminology used in the game and in real-world IT environments.
