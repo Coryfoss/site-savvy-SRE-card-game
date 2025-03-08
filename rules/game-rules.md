@@ -1,6 +1,6 @@
 # Site-Savvy Card Game Instructions
 
-![Site-Savvy Logo](resources/site-savvy-logo.png)
+![Site-Savvy Logo](/resources/site-savvy-logo.png)
 
 ## 🎯 Objective
 Be the first player to play all your cards! Along the way, you'll build your understanding of web infrastructure and IT systems.
