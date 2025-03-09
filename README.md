@@ -2,7 +2,7 @@
 
 ![Site-Savvy Logo](resources/site-savvy-logo.png)
 
-Site-Savvy is an educational card game designed to teach IT infrastructure concepts through engaging gameplay. Players match and play cards representing different IT roles and services while navigating advantages and challenges that occur in real technology environments.
+Site-Savvy is an educational card game designed to teach IT infrastructure concepts through gameplay. Players match and play cards representing different IT roles and services while navigating advantages and challenges that occur in technology environments.
 
 ## 🎮 Game Overview
 
