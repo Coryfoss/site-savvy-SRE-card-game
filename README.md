@@ -53,8 +53,8 @@ Site-Savvy uses the OSI (Open Systems Interconnection) model as a framework for 
 
 - **Layers 1-3**: Physical, Data Link, Network (Brown Square, Orange Triangle)
 - **Layer 4**: Transport (Orange Triangle, Yellow Diamond)
-- **Layers 5-7**: Session, Presentation, Application (Green Hexagon, Blue Circle, Blue Star)
-- **Security (Cross-layer)**: Authentication and protection (Purple Pentagon)
+- **Layers 5-7**: Session, Presentation, Application (Green Hexagon, Blue Circle, Purple Star)
+- **Security (Cross-layer)**: Authentication and protection (Pink Heart)
 
 ## 👩‍💻 Contributing
 
